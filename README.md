@@ -12,7 +12,7 @@ A simple and clean Django starter template with user authentication (login, logo
 
 ## 🛠️ Installation Guide
 
-### 1. Clone the repository
+### Clone the repository
 
 ```bash
 git clone https://github.com/ahmed-io97/Django-Starter_Template.git
@@ -37,16 +37,16 @@ $ source venv/Scripts/activate
 $ pip install -r requirements.txt
 ```
 
-## Run collect static :
-
-```bash
-$ python manage.py createsuperuser
-```
-
 ## Apply the migrations :
 
 ```bash
 $ python manage.py migrate
+```
+
+## Create super user :
+
+```bash
+$ python manage.py createsuperuser
 ```
 
 ## Finally, run the development server :
