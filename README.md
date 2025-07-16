@@ -6,6 +6,8 @@ A simple and clean Django starter template with user authentication (login, logo
 
 - Django project structure
 - Base template setup
+- User Registration
+- Login & Logout (using Django built-in views)
 - Clean separation of templates
 
 ---
