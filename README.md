@@ -17,6 +17,7 @@ A simple and clean Django starter template with user authentication (login, logo
 ```bash
 git clone https://github.com/ahmed-io97/Django-Starter_Template.git
 cd Django_Starter_Template
+```
 
 ## Create a virtual environment :
 
@@ -25,7 +26,6 @@ $ python -m venv .venv
 ```
 
 ## Activate the virtual environment on Windows :
-
 
 ```bash
 $ source venv/Scripts/activate
@@ -38,7 +38,6 @@ $ pip install -r requirements.txt
 ```
 
 ## Run collect static :
-
 
 ```bash
 $ python manage.py createsuperuser
